@@ -1,8 +1,11 @@
 #main-div{
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .card img {
     align-self: center;
     height: 250px;
-    width: 250px;
+    width: 100%;
+}
+#main-cart{
+    margin-bottom: 5%;
 }

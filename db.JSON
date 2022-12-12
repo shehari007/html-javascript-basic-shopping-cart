@@ -1,0 +1,22 @@
+[
+ {
+    "id": "1",
+    "title": "Mackbook Air",
+    "price": "21000"
+ },
+ {
+    "id": "2",
+    "title":"Iphone 14 pro max",
+    "price": "1000"
+ },
+ {
+    "id": "3",
+    "title": "Logitech pro",
+    "price":"750"
+ },
+ {
+    "id": "4",
+    "title": "Random Pro",
+    "price": "142"
+ }
+]
