@@ -9,3 +9,24 @@
 #main-cart{
     margin-bottom: 5%;
 }
+#p-span{
+    display: inline-flex;
+    
+}
+#p-span p{
+    float: left;
+    margin-right: 5px;}
+#p-span strong {
+    float: right;
+    margin-left: 0.5%;
+}
+.cart-items{
+    justify-content: space-evenly;
+}
+.cart-footer{
+    justify-content: end;
+}
+.cart{
+    color: black;
+    font-size: 19px;
+}
